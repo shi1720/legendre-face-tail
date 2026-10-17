@@ -1,0 +1,13 @@
+{
+  "random_cases": 3000,
+  "max_algebra_error": 4.440892098500626e-16,
+  "svd_cases": 495,
+  "max_svd_relative_error": 7.045141114983771e-16,
+  "gauge_cases": 2048,
+  "gauge_identity_max_abs_error": 1.1102230246251565e-16,
+  "gauge_compatible_constraint_max": 5.2662502028650513e-17,
+  "gauge_compatible_trace_max": 2.220446049250313e-16,
+  "field_gate_accepts": 1360,
+  "field_gate_unsafe": 224,
+  "guard_accepts": 1136
+}

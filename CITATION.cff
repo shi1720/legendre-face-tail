@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research working paper."
+type: software
+title: "Legendre face-tail diagnostics"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    orcid: "https://orcid.org/0009-0009-4576-0138"
+version: 1.0.0
+date-released: 2026-10-17
+url: "https://github.com/shi1720/legendre-face-tail"
+license: MIT
