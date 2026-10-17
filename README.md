@@ -23,7 +23,7 @@ cd paper
 tectonic main.tex
 ```
 
-The complete experiment took about a minute on the author's workstation; runtime
+The recorded complete experiment took about 20 seconds on the workstation; runtime
 depends on hardware and numerical libraries. No network calls or external data
 are made by the tests or experiments. Tectonic may download standard TeX packages.
 
@@ -95,3 +95,10 @@ The manuscript is in `paper/main.pdf`. The repository is released under the MIT
 license. See `CITATION.cff`. Raw numerical results are reproducible outputs, not
 observational data. The research does not establish patentability or commercial
 performance.
+
+## Journal manuscript preparation
+
+On 17 October 2026, the author reviewed and approved a journal preparation
+copy and the required disclosure of substantive Codex assistance. The manuscript
+now includes computational provenance and that disclosure. Journal registration
+and submission are in progress; this is not a claim of submission or acceptance.

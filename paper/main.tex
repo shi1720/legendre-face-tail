@@ -662,6 +662,19 @@ evaluates the rational derivative. The affine baseline is about
 \label{fig:mapping}
 \end{figure}
 
+
+\subsection{Computational assistance and verification provenance}
+OpenAI Codex was used to assist with topic development and literature discovery,
+mathematical derivation, implementation of the reference operators and tests,
+execution and analysis of numerical experiments, and manuscript drafting.
+The numerical results reported here were produced by the executable Python
+scripts in the public repository. Figures were generated from those results
+with Matplotlib; they are not generative illustrations. The algebraic checks,
+independent nodal calculations, singular-value comparisons and convergence
+checks are specified above so that a reader can audit the computations without
+relying on generated prose. Automated checks do not replace scientific review
+by the named author or establish exhaustive novelty.
+
 \section{Use in adaptation and scope of the result}
 A candidate coarsening can now be assessed without conflating field fidelity
 and reduction consistency. In the affine setting, first compute the
@@ -735,6 +748,15 @@ Sec.~\ref{sec:implementation}. Floating-point agreement tolerances and
 the distinction between continuous and nodal norms are documented in
 the tests. The manuscript is a research working paper and has not been
 peer reviewed.
+
+
+\section*{Declaration of generative AI and AI-assisted technologies}
+During preparation of this work, OpenAI Codex was used for research assistance,
+code development, computational analysis and manuscript preparation, as
+specified in the computational provenance subsection. This disclosure describes
+substantive assistance beyond spelling or grammar correction. The tool is not
+an author. After using the tool, the author reviewed the content, approved
+the manuscript and disclosure, and accepts responsibility for the work.
 
 \bibliographystyle{unsrtnat}
 \bibliography{references}
