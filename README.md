@@ -96,9 +96,11 @@ license. See `CITATION.cff`. Raw numerical results are reproducible outputs, not
 observational data. The research does not establish patentability or commercial
 performance.
 
-## Journal manuscript preparation
+## Journal submission
 
 On 17 October 2026, the author reviewed and approved a journal preparation
 copy and the required disclosure of substantive Codex assistance. The manuscript
-now includes computational provenance and that disclosure. Journal registration
-and submission are in progress; this is not a claim of submission or acceptance.
+now includes computational provenance and that disclosure. The manuscript was
+submitted to the Journal of Computational Physics as a Regular Article on
+17 October 2026 through the subscription route. Submission does not indicate
+acceptance or completion of editorial screening.
